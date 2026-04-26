@@ -1,11 +1,11 @@
 # Task-User-Stories-SW3-1
-## 📌 Project Description
+## Project Description
 
 This project represents a simple task management system similar to Trello. It focuses on defining user stories for key features.
 
 ---
 
-## 🚀 Features
+## Features
 
 ### 1. User Authentication
 
@@ -37,7 +37,15 @@ This project represents a simple task management system similar to Trello. It fo
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 * Trello
 * GitHub
+
+---
+## Trello Board
+https://trello.com/invite/b/69eddbc5ef6f321737cee97e/ATTI30ac4a30cdb21bf10333ecbfc21354b61462A0A4/users-story-project
+
+
+## Author
+Your Name
