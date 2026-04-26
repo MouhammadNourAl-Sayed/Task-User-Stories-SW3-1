@@ -1,7 +1,4 @@
 # Task-User-Stories-SW3-1
-
-# Task Management System - User Stories
-
 ## 📌 Project Description
 
 This project represents a simple task management system similar to Trello. It focuses on defining user stories for key features.
